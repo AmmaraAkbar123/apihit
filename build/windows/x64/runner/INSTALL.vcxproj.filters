@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\amara_work\StarsRating\apihit\build\windows\x64\CMakeFiles\a5d1ae70e8eb83f4bf1927bfb4d1e340\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{51DA8BFD-401A-331C-9719-91EF7EE82D92}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

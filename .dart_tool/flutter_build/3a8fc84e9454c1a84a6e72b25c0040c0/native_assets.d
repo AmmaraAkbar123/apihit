@@ -1,0 +1,1 @@
+ D:\\amara_work\\StarsRating\\apihit\\.dart_tool\\flutter_build\\3a8fc84e9454c1a84a6e72b25c0040c0\\native_assets.yaml: 
