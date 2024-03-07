@@ -13,13 +13,12 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return ChangeNotifierProvider(
       create: (context) => UserProvider(),
-      child: MaterialApp(
-        home: Scaffold(
-          appBar: AppBar(
-            title: Text('User Details'),
-          ),
-          body: SecondScreen(),
-        ),
+      child: const MaterialApp(
+        debugShowCheckedModeBanner: false,
+        home: 
+      
+        SecondScreen(),
+      
       ),
     );
   }
